@@ -11,7 +11,7 @@
  * [Vision Sensor Cube Tracking](#Vision-Sensor-Cube-Tracking)
  * [Intakes](#Intakes)
 
-### Programming And Algorithm Design Proccess
+### Programming And Algorithm Design Process
 > For an in-depth look at the programming process, [click here](https://github.com/Sajantoor/4549A-Code/blob/master/docs/extra-docs.md).
 
 ## The Basics
